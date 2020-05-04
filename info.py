@@ -59,7 +59,7 @@ def baliho():
 		print (W + '           [' + G +'TYPE HELP IF YOU WANT'+ W + '         ]')
 		print (W + '           [' + G +'ASK FOR HELP OK'+ W + '               ]')
 		print (W + '           [' + G +'  THE DARK ANONYMOUS VIKRANT  '+ W + ']')
-		print (W + '           [' + G +' FACEBOOK EMAIL FOUND TOOLS  '+ W +  ']')
+		print (W + '           [' + G +' FACEBOOK EMAIL FOUND TOOLS   '+ W + ']')
 		print (W + '           [' + G +'##############################'+ W + ']')
 		print (' ')
 		print (' ')
