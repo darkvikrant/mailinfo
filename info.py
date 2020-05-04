@@ -53,14 +53,14 @@ def baliho():
 
 	except (KeyError,IOError):
 	
-		print (W + '           [' + G +'##############################'+ W + ']')
-		print (W + '           [' + G +'IF YOU WANT TO RUN'+ W + '            ]')
-		print (W + '           [' + G +'YOU CAN TYPE TOKEN'+ W + '            ]')
-		print (W + '           [' + G +'TYPE HELP IF YOU WANT'+ W + '         ]')
-		print (W + '           [' + G +'ASK FOR HELP OK'+ W + '               ]')
-		print (W + '           [' + G +'                              '+ W + ']')
-		print (W + '           [' + G +'    FACEBOOK REQUIREMENT TOOLS'+ W + ']')
-		print (W + '           [' + G +'##############################'+ W + ']')
+		print (W + '           [' + G +'##############################'+ W +  ']')
+		print (W + '           [' + G +'IF YOU WANT TO RUN'+ W + '             ]')
+		print (W + '           [' + G +'YOU CAN TYPE TOKEN'+ W + '             ]')
+		print (W + '           [' + G +'TYPE HELP IF YOU WANT'+ W + '          ]')
+		print (W + '           [' + G +'ASK FOR HELP OK'+ W + '                ]')
+		print (W + '           [' + G +'THE DARK ANONYMOUS VIKRANT HERE'+ W + ']')
+		print (W + '           [' + G +'  FACEBOOK EMAIL FOUND TOOLS  '+ W +  ']')
+		print (W + '           [' + G +'##############################'+ W +  ']')
 		print (' ')
 		print (' ')
 ####################################################################
